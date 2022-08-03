@@ -1,6 +1,6 @@
 {
   "name": "mongoose-uuid-parser",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Bruno Mayer",
   "license": "ISC",
   "main": "index.js",
@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "bson": "^4.0.3",
-    "mongoose": "^5.9.4",
+    "mongoose": "^6.5.0",
     "uuid": "^7.0.2"
   }
 }
